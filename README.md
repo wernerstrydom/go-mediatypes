@@ -27,7 +27,10 @@ image/gif
 
 ## Contributing
 
-Contributions are welcome. Please open an issue or a pull request.
+Most of the repository was generated using the [media types](https://github.com/wernerstrydom/mediatypes) project.
+If you'd like to add, remove or update media types, or change how the source is
+generated, please see the [media types](https://github.com/wernerstrydom/mediatypes) project.
+
 
 ## License
 
